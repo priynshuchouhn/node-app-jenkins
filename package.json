@@ -1,0 +1,25 @@
+{
+  "name": "app-jenkins",
+  "version": "1.0.0",
+  "description": "A node app to demonstrate jenkins pipeline",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priynshuchouhn/node-app-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priynshuchouhn/node-app-jenkins/issues"
+  },
+  "homepage": "https://github.com/priynshuchouhn/node-app-jenkins#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
